@@ -10,7 +10,7 @@ public class QuestionAnswer {
     };
 
     public static String choices[][] = {
-            {"Shrikant Sir","Parag Sir","Baljeet Mam","Deepika Mam"},
+            {"Shrikant Sir","Parag Kaveri Sir","Baljeet Mam","Deepika Mam"},
             {"1","3","4","Letter Grade"},
             {"Flutter","Kotlin","C++","Java"},
             {"MainActivity.java","activity_main.xml","Gradle Scripts","Drawables"}
